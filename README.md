@@ -14,3 +14,5 @@
 24.11.02 JS 런타임, 실행 컨텍스트, 스코프, this, 클로져, 매니징업 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Nov/2024-11-02.md)
 <br>
 24.11.03 실행 컨텍스트 맛보기 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Nov/2024-11-03.md)
+<br>
+24.11.07 현대 컴퓨터 언어의 비동기 논블로킹에 대한 뇌피셜 고찰 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Nov/2024-11-07.md)
