@@ -20,3 +20,5 @@
 24.11.18 Express.js 에러 핸들링과 StringBuilder [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Nov/2024-11-18.md)
 <br>
 24.11.26 HTTP 정리 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Nov/2024-11-26.md)
+<br>
+24.11.28 CORS, preflight, simple request 정리 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Nov/2024-11-28.md)
