@@ -25,4 +25,6 @@
 <br>
 24.12.01 SSL 핸드셰이크 정리 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-01.md)
 <br>
-24.12.03 불공변성과 타입 추론, Java 문법 정리 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-01.md)
+24.12.03 불공변성과 타입 추론, Java 문법 정리 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-03.md)
+<br>
+24.12.04 NLB에서 왜 SSL TLS 를 고려해야하나요? [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-04.md)
