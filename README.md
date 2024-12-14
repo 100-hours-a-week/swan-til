@@ -32,3 +32,5 @@
 24.12.07 에러 회고 (부제 : 프로그래밍 기본) [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-07.md)
 <br>
 24.12.13 도커, K8S 개념 및 Docker Swarm 실습 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-13.md)
+<br>
+24.12.14 카카오 24 윈터 인턴쉽 코테 2번 도넛과 막대 그래프 톺아보기 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-14.md)
