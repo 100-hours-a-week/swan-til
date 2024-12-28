@@ -38,3 +38,5 @@
 24.12.19 FEConf 정리 - 컴포넌트 되돌아보기 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-19.md)
 <br>
 24.12.22 Docker Compose 및 Docker Network [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-22.md)
+<br>
+24.12.28 비동기 통신 [상세 내역 링크](https://github.com/100-hours-a-week/swan-til/blob/main/Dec/2024-12-28.md)
